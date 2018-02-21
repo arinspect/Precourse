@@ -9,6 +9,7 @@ In this lesson we will cover:
 * Using the position property to position elements.
 * Introduction to Flexbox.
 
+
 ## Introduction to positioning
 
 Building a layout and making everything look clean is what most people are looking to do when they start learning CSS. Positioning HTML elements on the page with CSS is possibly the most powerful ability CSS has, it can also be the most frustrating. In this lesson we will learn a few different ways to position items on the page.
