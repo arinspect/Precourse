@@ -1,0 +1,10 @@
+when we use JavaScript, variables are just a way for us to store something for future use and we can change them at any time. the three vaiables are var, let and const. Var can declare a variable in a generic way. Let is very close to a  variable, but it can behave a little different and it creates something called a block level scope. Cost, or constant is a variable, but it cant be changed to anything else once it is assigned. 
+Strings are just a block of text that are in single, or double quotes, so text that are in quotes are called a string.
+Funtions tell a running program that the following code should be a function, and lets the program run like a function and starts with starts with the name funtion and is surrounded by open and closed parentheses, along with open and closed brackets. We use it in whats called a console log that will print out what the function does in the console and is always written with parentheses in order for it to function as a function.
+An argument needs to have a variable which needs to be put in parentheses so we can declare a function like 'name = 'Kevin'' we can use other variables as well using this argument.
+Return statements dont print anything into the console log, and its used to return things like adding two numbers together. when a funtion notices a return statement it stopes and returns.
+If statement just ells us if something is, or is not and is used for control flow and other operations.
+Booleans are just a way to tell us if something is true or false, like the way computers work like 0 and 1, or on or off.
+The "if" staement just tells us if something is true, or not and will print to the console.
+A value can be strings, numbers, booleans, objects, funtions, or an undefined value.
+We use booleans to tell us if something is true, or false in a program.
