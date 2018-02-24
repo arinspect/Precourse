@@ -1,0 +1,12 @@
+1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
+		
+	* `for`
+	* `&&`, `||`, `!`
+
+	* 'for' For is a loop that makes most software programs run the code function in the program. There are actually three statements when a second condition meets. When the last statement executes, a loop starts again, and the letter i is used as a variable.
+
+	the symbols * '&&', '||', '!' The && means and in JavaScript and it lets us use 2 conditions to start at once and to be compared and says if both of these are true, or false, the function will return what we have asked it to.
+
+	|| is another way of saying 'or'  developing javascript, and it will compare two different conditions, and tell us if they are true or false, and returns what we have asked of it.
+
+	the ! symbol in javascript means "not" and can flip a boolean in the opposite direction, as in false becomes true and true becomes false.
