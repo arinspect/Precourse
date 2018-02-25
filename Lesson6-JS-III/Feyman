@@ -1,0 +1,1 @@
+Arrays are a collection of different types of values and each has a location linked to it. It can change override, or delete values, and values can be added using .push, and newValue, along with .splice.
